@@ -4,3 +4,4 @@ HTML頁面：5
 全站照片去識別化複核：已完成
 失效本地參照：0
 狀態：通過
+[2026-10-24] Homepage images refreshed with cache-busting filenames for de-identified assets.
